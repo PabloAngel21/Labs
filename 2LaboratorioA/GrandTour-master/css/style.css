@@ -1,0 +1,135 @@
+/*Write your style here*/
+.cont1{
+	background: url(../images/banner1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(1,1,1,0.9);
+}
+.barra{
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	padding-top: 10px;
+
+	color: #FFFFFF;
+}
+.barra1{
+	padding-top: 7px;
+}
+.hh hr{
+	background-color: #FFFFFF;
+}
+.ult{
+	padding-bottom: 10px;
+}
+.int{
+	background-color: rgba(0,0,0,0.5);
+}
+.hh{
+	background-color: rgba(0,0,0,0.5);	
+}
+.int h2{
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: left;
+	padding-left: 200px;
+}
+.int h5{
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: left;
+	padding-left: 200px;
+}
+.int .but{
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: left;
+	margin-right:540px;
+	background-color: rgba(0,0,0,0);
+	padding-left: 17px;
+	padding-right: 17px; 
+	
+}
+.int .bu{
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: left;
+	background-color: rgba(0,0,0,0); 
+	padding-left: 17px;
+	padding-right: 17px;  
+}
+.cont2{
+	background-color: #FFFFFF;
+}
+.cont2 h5{
+	text-align: left;
+	font-weight: normal;
+	padding-left: 200px; 
+}
+.cont2 .in p{
+	font-weight: normal;
+	padding-left: 200px; 
+	font-size: 15px;
+	text-align: left;
+	color: #929292;
+}
+.cont2 h1{
+	font-weight: normal;
+	text-align: center;
+}
+.ce{
+	color: #929292;
+	font-weight: bold;
+}
+.cont3{
+	background-color: #037FFB;
+}
+.cont3 h2{
+	color: #FFFFFF;
+	font-weight: normal;
+}
+.cont3 h6{
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.cont3 p{
+	color: #F6F3DF;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.foo{
+	background-color: #151515;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.foo h6{
+	color: #ffffff;
+	font-weight: normal;
+	text-align: left;
+}
+.foo p{
+	color: #929292;
+	text-align: left;
+	font-size: 13px;
+}
+.foo2{
+	background-color: #222222;
+}
+.foo2{
+	color: #929292;
+	padding-top: 10px;
+}
+.blan{
+	color: #ffffff;
+	font-weight: normal;
+}
+.lin{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+input{
+	background-color: rgba(0,0,0,0);
+	color: #ffffff;
+}
+

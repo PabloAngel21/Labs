@@ -1,0 +1,77 @@
+a {
+	padding:5%;
+}
+
+a:link {
+    color: blue
+}
+
+ a:visited {
+
+    color: black;
+    font-size: "Bradley Hand ITC";
+}
+
+.titg {
+	font-family: "Bradley Hand ITC";
+	font-weight: bold;
+	font-size: 30px;
+}
+
+body{
+	width: 100%;
+
+}
+.cont1{
+	width: 100%;
+	background: url("../img/fon.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.menu{
+	background: rgba(0,0,0,0.5);
+
+}
+.cont1 a{
+	font-family:Bradley Hand ITC ;
+	font-weight: bold;
+	color: #f2f2f2;
+	font-size: 30px;
+	margin-top: 
+	
+}
+.cont1 a:hover{
+	color:#31B404;
+	}
+.inicio{
+	background: rgba(0,0,0,0.5);
+
+}
+.qu{
+	font-family:Bradley Hand ITC ;
+	padding-left: 20%;
+	padding-right: 20%; 
+}
+.inicio h1{
+	color:#31B404;
+	font-weight: bold;
+
+}
+.inicio p{
+	color:#f2f2f2;
+	font-size: 20px;	
+	font-weight: bold;
+
+}
+.cont2{
+	background-color:#088A08; 
+}
+.cont3{
+	background-color: #2E2E2E;
+}
+.foo{
+	color:#848484;
+	text-align: justify;
+	padding-left: 190px;
+
+}
